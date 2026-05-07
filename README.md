@@ -1,4 +1,6 @@
 # Royal Win India App Guide
+![Preview](royalwin-image.png)
+
 Royal Win is an online gaming platform designed for players in India who enjoy interactive and engaging digital experiences. This guide provides an overview of the Royal Win app, including features, access steps, and general platform information.
 
 ## 📖 About Royal Win
